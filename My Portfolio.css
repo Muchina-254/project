@@ -1,0 +1,36 @@
+body{
+	background-color:black;
+	dislay:flex;
+	 justify-content: center;
+       	align-items:center;
+	color:white;
+	font-family:sans-serif;
+}
+ button{
+	background:#39FF14;
+	text-decoration: none;
+	padding:10px;
+	color: black;
+	border:2px solid;
+	border-radius:5px;
+	margin: 4px;
+	width:230px;
+	font-family:sans-serif;
+}
+h1{
+	text-align:left;
+	color:#39FF14;
+	font-family:sans-serif;
+}
+a{
+	text-align:center;
+	color:#39FF14;
+}
+
+input{
+	width:230px;
+	text-align:center;
+	background:#343434;
+	padding:10px;
+	color:white;
+}

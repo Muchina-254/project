@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Slideshow</title>
+    <link rel="stylesheet" href="styles.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+img {
+            max-width: 100%;
+            height: auto; /* This ensures the image maintains its aspect ratio */
+            display: block; /* This removes any extra spacing that might occur due to inline elements */
+            margin: auto; /* This centers the image */
+        }
+ </style>
+</head>
+<body>
+<img src="Sarah Muchina.jpeg"style="float: left; margin-right:20px;margin-top:10px;" width="140px" height="100" >
+    <div class="content">
+<h1 >SARAH MUCHINA.</h1>
+	<h2></h2>
+	
+    </div>
+
+</div>
+<div>
+<i class="fa fa-home"></i>
+ <i class="fa fa-search"></i>
+<i class="fa fa-cloud"></i>
+<i class="fa fa-trash"></i>
+<i class="fa fa-facebook"></i>
+</div>
+   <div class="pages">
+	<button id="hairstyles-button" onclick="location.href='education.html';">Education</button>
+       <button id="reservations-button" onclick="location.href='experience.html';">Experience</button>
+	<button id="stylists-button" onclick="location.href='myprojects.html';">My Projects</button>
+	<button id="pricing-button" onclick="location.href='aboutme.html';">About Me</button>
+
+  </div>
+    <div class="slideshow-container">
+        <div class="mySlides fade">
+            <img src="Screenshot 2024-01-25 101244.png" alt="Slide 1">
+        </div>
+        <div class="mySlides fade">
+            <img src="Screenshot 2024-01-25 101125.png" alt="Slide 2">
+        </div>
+        <div class="mySlides fade">
+            <img src="Screenshot 2023-10-08 214316.png" alt="Slide 3">
+        </div>
+        
+     </div>
+        <!-- Add more slides as needed -->
+
+        <!-- Navigation dots -->
+        <div style="text-align: center">
+            <span class="dot"onclick="currentSlide(1)"></span>
+            <span class="dot"onclick="currentSlide(2)"></span>
+            <span class="dot"onclick="currentSlide(3)"></span>
+            
+            <!-- Add more dots as needed -->
+        </div>
+<img src="C:\Users\Admin\OneDrive\Desktop\WEB project\mission.jpg">
+ <img src="C:\Users\Admin\OneDrive\Desktop\WEB project\vision.png"> 
+    <script src="script.js"></script>
+</body>
+</html>
+
+  
+  <div class="footer">
+        <h1>FOR MORE INFORMATION.</h1>
+	<h2>Follow me on my social media platforms:</h2>
+	
+	<button class="rate-button" onclick="window.location.href='https://example.com/rate'" target="_blank" rel="noopener noreferrer">Rate Me</button>
+  </div>
+
+ <footer>
+        <div class="social-media">
+            <a href="https://twitter.com/@WAMAT25465" target="_blank" rel="noopener noreferrer">
+                <i class="fa fa-twitter">Twitter</i>
+	          
+            </a>
+<br>
+<br>
+            <a href="https://www.instagram.com/your_instagram_handle/" target="_blank" rel="noopener noreferrer">
+                <i class="fa fa-instagram">Instagram</i>
+
+            </a>
+<br>
+<br>
+            <a href="https://www.youtube.com/user/your_youtube_channel" target="_blank" rel="noopener noreferrer">
+                <i class="fa fa-youtube">You Tube</i><br>
+	          	
+            </a>
+<br>
+            <a href="https://wa.me/0112238923" target="_blank" rel="noopener noreferrer">
+                <i class="fa fa-whatsapp">WhatsApp</i><br>
+
+            </a>
+<br>
+        </div>
+    </footer>
+<p>&copy;MAYGREAT 2024</p>
+    <script src="script.js"></script>
+</body>
+</html>

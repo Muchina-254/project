@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You may link your CSS file here -->
+</head>
+<body>
+
+<h1>Experience</h1>
+
+<section>
+<img src="usiuafrica.jpeg"style="float: left; margin-right:20px;margin-top:10px;" width="140px" height="100" >
+    <div class="content">
+<h2>Web development</h2>
+<p>Bachelor of Science in Information System Technology</h2>    
+</section>
+
+<br>
+<br>
+<br>
+<br>
+<section>
+<img src="Kenya Poly.png"style="float: left; margin-right:20px;margin-top:10px;" width="140px" height="100" >
+    <div class="content">   
+    
+    <h2>Fiber Optic</h1>
+    <p>OSP Rollout</p>
+    <p>FTTx Rollout</p>
+    <p>Fiber Maintenace</p>
+ 
+ 
+</section>
+
+<br>
+<br>
+<br>
+<br>
+<section>
+<img src="Kenya Poly.png"style="float: left; margin-right:20px;margin-top:10px;" width="140px" height="100" >
+    <div class="content">   
+    
+    <h2>GSM</h1>
+    <p>Civil Works</p>
+    <p>Electrical Works</p>
+ 
+</section>
+<br>
+<br>
+<br>
+<br>
+<section>
+<img src="Kenya Poly.png"style="float: left; margin-right:20px;margin-top:10px;" width="140px" height="100" >
+    <div class="content">   
+    
+    <h2>CCTV & LAN</h1>
+    <p>CCTV Installation</p>
+    <p>CCTV Diagnosis</p>
+    <p>CCTV Maintenance</p>
+</section>
+
+<!-- You can add more sections for additional education or certifications -->
+
+</body>
+</html>

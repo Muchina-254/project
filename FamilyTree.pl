@@ -1,6 +1,6 @@
 % Facts
-father(kimani, Kamau).
-father(Kamau, ng'ang'a).
+father(kimani, kamau).
+father(kamau, ng'ang'a).
 father(kamau, mwangi).
 father(ng'ang'a, muchina).
 father(ng'ang'a, wangui).

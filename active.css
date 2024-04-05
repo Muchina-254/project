@@ -1,10 +1,12 @@
 body{
+	display:flex;
+	align-items:center;
+	justify-content: center;
 	background-color:black;
-	dislay:flex;
-	 justify-content: center;
-       	align-items:center;
+	font-family:calibri;
 	color:white;
 	font-family:sans-serif;
+	height: 100vh;
 }
  button{
 	background:#39FF14;
@@ -14,11 +16,11 @@ body{
 	border:2px solid;
 	border-radius:5px;
 	margin: 4px;
-	width:230px;
-	font-family:sans-serif;
+	width:230px;	
 }
 h1{
-	text-align:left;
+	position:top;
+	text-align:center;
 	color:#39FF14;
 	font-family:sans-serif;
 }
@@ -26,7 +28,6 @@ a{
 	text-align:center;
 	color:#39FF14;
 }
-
 input{
 	width:230px;
 	text-align:center;

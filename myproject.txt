@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Projects</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+   
+</header>
+
+<main>
+  <h1>Completed Projects</h1>
+
+<section>
+<img src="Login Interface.JPG"style="float: left; margin-right:20px;margin-top:10px;" width="140px" height="100" >
+    <div class="content">
+<h2>Login Interface</h2>
+<p>A login Application With Username and a more than 8 character password</p>
+<a href="https://github.com/Muchina-254/Muchina-254.github.io/blob/main/sign-in.html">sign-in</a> 
+</section> 
+br
+br
+ <section>
+<img src="Family Tree using Prolog.JPG"style="float: left; margin-right:20px;margin-top:10px;" width="140px" height="100" >
+    <div class="content">
+<h2>Area of shapes</h2>
+<p></p>
+<a href="https://github.com/Muchina-254/Muchina-254.github.io/blob/main/FamilyTree.pl">Family Tree</a>      
+</section>   
+ br
+ br
+ <section>
+<img src="Grading.JPG"style="float: left; margin-right:20px;margin-top:10px;" width="140px" height="100" >
+    <div class="content">
+<h2>Grading System</h2>
+<p></p>
+<a href="https://github.com/Muchina-254/Muchina-254.github.io/blob/main/Grading.py">Grading System</a>      
+</section>   
+br
+br
+<section>
+<img src="Area.JPG"style="float: left; margin-right:20px;margin-top:10px;" width="140px" height="100" >
+    <div class="content">
+<h2>Area Of Shapes</h2>
+<p></p>
+<a href="https://github.com/Muchina-254/Muchina-254.github.io/blob/main/Areas.py">Area of Shapes</a>      
+</section>  
+br
+br    
+    <section class="section-my-projects">
+        <div class="container">
+            <h1>Ongoing Projects</h1>
+            <div class="project-item">
+                <h2>Payment Integration</h2>
+                <img src="payment Intergration.jpg"style="float: left; margin-right:20px;margin-top:10px;" width="140px" height="100" >
+    <div class="content">
+                <p>Description:This project involved integrating a payment gateway into an e-commerce website, allowing customers to securely make online payments for their purchases. The payment gateway chosen for this integration was Stripe, known for its reliability and security.</p>
+                <p>Technologies Used: HTML, CSS, JavaScript, Node.js, Express, MongoDB</p>
+            </div>
+            <div class="project-item">
+                <h2>Visitor Management</h2>
+                <img src="Visitor-Management-Process.png"style="float: left; margin-right:20px;margin-top:10px;" width="140px" height="100" >
+    <div class="content">
+                <p>Description: This project aimed to create a digital visitor management system for a corporate environment, allowing seamless check-in and check-out processes for visitors. The system included features such as visitor registration, badge printing, and notification alerts to hosts upon visitor arrival..</p>
+                <p>Technologies Used: HTML, CSS, JavaScript, PHP, MySQL</p>
+            </div>
+
+</body>
+</html>
